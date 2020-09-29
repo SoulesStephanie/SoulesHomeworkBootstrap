@@ -25,7 +25,7 @@
 
 -   Using Bootstrap, make a sticky footer and use sub-rows and sub-columns on your portfolio site (**Hint:**  Check out the Bootstrap documentation).
 
-# Files and Directories
+# Files and Images
 
 - index.html
 - contact.html
@@ -34,6 +34,9 @@
 
 -  Images
 	2020-07-29 (2).png
+	
+# Link to Website
 
-    Screenshots
+https://soulesstephanie.github.io/SoulesHomeworkBootstrap/
+
     
